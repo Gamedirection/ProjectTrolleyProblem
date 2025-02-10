@@ -293,7 +293,7 @@
                     "numberDomain": "com.degica.vnm.default"
                 },
                 "indent": 0,
-                "expanded": true,
+                "expanded": false,
                 "uid": "64C4FBD88DE0B049104B9F12352D74226EE8"
             },
             {
@@ -464,7 +464,7 @@
                 },
                 "indent": 0,
                 "uid": "63EE6569129FA7480209F4090C49C221AA50",
-                "expanded": true
+                "expanded": false
             },
             {
                 "id": "gs.Idle",
@@ -494,7 +494,8 @@
                     }
                 },
                 "indent": 0,
-                "uid": "59F3F93334A82344443A1358E60490C39909"
+                "uid": "59F3F93334A82344443A1358E60490C39909",
+                "expanded": false
             }
         ],
         "livePreviewDisabled": false,

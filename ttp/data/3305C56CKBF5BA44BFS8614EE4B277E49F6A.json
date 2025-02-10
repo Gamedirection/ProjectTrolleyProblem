@@ -102,6 +102,59 @@
                 "expanded": false
             },
             {
+                "id": "gs.ShowText",
+                "params": {
+                    "numberDomain": "com.degica.vnm.default",
+                    "viewport": {
+                        "type": "ui"
+                    },
+                    "predefinedPositionId": 8,
+                    "positionType": 0,
+                    "number": 0,
+                    "duration": 0,
+                    "waitForCompletion": 0,
+                    "blendMode": 0,
+                    "positionOrigin": 0,
+                    "origin": 0,
+                    "zOrder": 2,
+                    "text": {
+                        "lcId": null,
+                        "defaultText": "This is some text to make sure it's working"
+                    },
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "easing": {
+                        "type": 0,
+                        "inOut": 1
+                    },
+                    "animation": {
+                        "type": 1,
+                        "movement": 0,
+                        "mask": {
+                            "graphic": null,
+                            "vague": 30
+                        }
+                    },
+                    "fieldFlags": {
+                        "duration": 1,
+                        "easing.type": 1,
+                        "animation.type": 1,
+                        "origin": 1,
+                        "positionOrigin": 1,
+                        "zOrder": 0,
+                        "blendMode": 1,
+                        "viewport.type": 1
+                    },
+                    "expressions": [],
+                    "animations": []
+                },
+                "uid": "A6B05F3D510C71459C5AF914BB76D061AF02",
+                "indent": 0,
+                "expanded": true
+            },
+            {
                 "id": "vn.CharacterJoinScene",
                 "params": {
                     "viewport": {
