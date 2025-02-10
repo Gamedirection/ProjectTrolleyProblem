@@ -1,0 +1,2 @@
+ttp/build/ttp/game filter=lfs diff=lfs merge=lfs -text
+ttp/build/ttp/* filter=lfs diff=lfs merge=lfs -text
