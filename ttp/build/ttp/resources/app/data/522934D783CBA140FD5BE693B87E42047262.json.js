@@ -1,0 +1,26 @@
+GS.dataCache['522934D783CBA140FD5BE693B87E42047262'] = {
+    "uid": "522934D783CBA140FD5BE693B87E42047262",
+    "isLoaded": true,
+    "lastModificationTime": 0,
+    "items": {
+        "name": "Lila",
+        "type": "data_record",
+        "order": 13,
+        "category": "characterExpressions",
+        "data": {
+            "name": "Lila",
+            "isFolder": true,
+            "index": "522934D783CBA140FD5BE693B87E42047262"
+        },
+        "parentId": "ROOT",
+        "isFolder": true,
+        "id": "522934D783CBA140FD5BE693B87E42047262",
+        "localizableStrings": {}
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}
